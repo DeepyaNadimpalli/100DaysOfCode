@@ -8,7 +8,7 @@ def caesar(direction,text,shift):
 		if i not in alphabets:
 			cipher_text+=i
 		elif direction=='encode':
-		    cipher_text+=alphabets[alphabets.index(i)+shift]
+		        cipher_text+=alphabets[alphabets.index(i)+shift]
 		elif direction=='decode':
 			cipher_text+=alphabets[alphabets.index(i)-shift]
 	print(f"The {direction}d text is {cipher_text}")
