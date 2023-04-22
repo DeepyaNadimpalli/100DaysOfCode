@@ -17,3 +17,4 @@ Day 16 - Coffee machine using Object Oriented Programming
 Day 17 - Quiz game
 Day 18 - Recreating Damien Hirst's spot painting
 Day 19 - Turtle race
+Day 20 - Snake Game
